@@ -213,3 +213,9 @@ GitHub Actions → Docker Hub → Kubernetes Cluster
 4. DevOps：自动化部署和监控
 
 这个项目不仅展示了我的技术能力，也展示了我如何应对复杂系统设计和实现的挑战。
+
+## 联系方式
+
+- 项目维护者: 金何 ([@jinhe0905](https://github.com/jinhe0905))
+- 电子邮件: [jinhe0905@gmail.com](mailto:jinhe0905@gmail.com)
+- 项目问题: [GitHub Issues](https://github.com/jinhe0905/creative-ai-suite-v2/issues)
